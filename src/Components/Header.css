@@ -1,0 +1,9 @@
+.title {
+  color: #008080;
+  background-color: white;
+}
+
+.title h1 {
+  font-size: 4.5rem;
+  font-weight:bold;
+}
